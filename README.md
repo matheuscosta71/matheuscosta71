@@ -57,5 +57,13 @@
 </p>
 
 ## 🐍 Snake eating my contributions
-![snake gif](https://github.com/matheuscosta71/matheuscosta71/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/matheuscosta71/matheuscosta71/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/matheuscosta71/matheuscosta71/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/matheuscosta71/matheuscosta71/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/matheuscosta71/matheuscosta71/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
