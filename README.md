@@ -56,7 +56,7 @@
   </a>
 </p>
 
-## 🐍 Snake eating my contributions
+## 🐍 Oh não, uma cobra comeu meus commits! 😥
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuscosta71/matheuscosta71/output/github-snake-dark.svg" />
