@@ -20,8 +20,8 @@
 ### 📊 GitHub Status
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscosta71&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscosta71&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscosta71&show_icons=true&theme=merko&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscosta71&layout=compact&theme=merko"/>
 </div>
 
 ---
